@@ -1,1 +1,7 @@
-.idea
+# package.jsonさえあれば$ npm install で再現可能なので必要ない
+node_modules/
+
+# package.jsonさえあれば$ npm install で再現可能なので必要ない
+package-lock.json
+
+debug.log
